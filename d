@@ -41,7 +41,7 @@ current_weapon:0x9d0
 weapon_data:0x628
 item_name:0x38
 rarity_struct:0x1873E5D8
-weapon_core_animation:0x14f0
+weapon_core_animation:0x16d0
 spectators:0xa70
 spectator_array:0x48
 levels:0x1D8
