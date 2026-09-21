@@ -12,7 +12,7 @@ game_state:0x1c0
 player_array:0x288
 pawn_private:0x2e8
 relative_location:0x140
-cached_view_info_rendered_last_frame:0x180
+cached_view_info_rendered_last_frame:0x178
 team_index:0xf69
 b_is_dbno:0x881
 b_is_dying:0x728
