@@ -1,4 +1,5 @@
 engine:0x1B2C7518
+GNames:0x1B179F00
 viewport:0xb70
 uworld_offset:0x78
 owning_game_instance:0x238
